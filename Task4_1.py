@@ -13,3 +13,4 @@
 text = int(input('Введите степень числа: '))
 text1 = [pow(2, i) for i in range(1, text)]
 print(text1)
+
