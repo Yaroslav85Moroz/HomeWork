@@ -56,16 +56,86 @@
 #     deposit *= 1 + (percent/100)
 #     print(f)
 
-data = {
-    'key1': 'hello'
-    'key1': '333'
-}
-for key, value in data.items():
-    if
-
-isinstance()
-
-
+# data = {
+#     'key1': 'hello'
+#     'key1': '333'
+# }
+# for key, value in data.items():
+#     if
+#
+# isinstance()
 
 
 
+
+# def multiply(numbers):
+#     res = 1
+#     for number in numbers:
+#         res *= number
+#     print(res)
+#
+#
+# multiply([1, 2, 3, 4, 5])
+
+
+
+# def foo(a, b):
+#     print(a * b)
+#
+#
+# foo(4, 5)
+
+# def bar(a, b=[]):
+#     b.append(a)
+#     print(b)
+#
+#
+# bar(4)
+# bar(4)
+
+
+# def bar(a, b=None):
+#     if b is None:
+#         b = []
+#     b.append(a)
+#     print(b)
+#
+#
+# bar(4)
+# bar(4)
+
+# *args - НЕОПРЕДЕЛЁННОЕ КОЛИЧЕСТВО АРГУМЕНТОВ (КОРТЕЖ - НЕИЗМЕНЯЕМЫЙ ТИП ДАННЫХ)
+# def baz(*args):
+#     print(args)
+#
+#
+# baz(1, 2, 3, 4, 5)
+
+
+# **kwargs - НЕОПРЕДЕЛЁННОЕ КОЛИЧЕСТВО ИМЕНОВАННЫХ АРГУМЕНТОВ (СЛОВАРЬ - ИЗМЕНЯЕМЫЙ ТИП ДАННЫХ, ДОСТУПЕН ПО КЛЮЧУ)
+# def baz(**kwargs):
+#     print(kwargs)
+#
+#
+# baz(a=6, b=7, name='Alex')
+
+# def multiply(*numbers):
+#     res = 1
+#     for number in numbers:
+#         res *= number
+#     return res
+#
+#
+#  a = multiply(1, 2, 3, 4, 5)
+#  print(a)
+
+# РАСПАКОВКА
+# def foo(a, b):
+#     print(a, b)
+#
+# data = {
+# 'a': 4,
+# 'b': 5
+# }
+# foo(**data)
+ 
