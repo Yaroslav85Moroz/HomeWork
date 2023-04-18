@@ -138,4 +138,35 @@
 # 'b': 5
 # }
 # foo(**data)
- 
+
+# def max_digit(number: int) -> int:
+#     return int(max(f'{number}'))
+#
+#
+# print(max_digit(384))
+
+
+# n = 49
+# m = (1, 5, 10, 25)
+# for n in m:
+#     n += amount // m
+#     amount -= (amount // n) * m
+#     return n
+#
+# print(i)
+
+
+# n = 'hellow world'
+# m = 'eyoa'
+# count = 0
+# for i in (n):
+#     if i in n:
+#         count += 1
+# print(count)
+
+dic = {'a': 3, 'b': 1, 'c': 2}
+dict.get(dic)
+# dic = {i: text.count(i) for i in set(text)}
+print(dic)
+
+
