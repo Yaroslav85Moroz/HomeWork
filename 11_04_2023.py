@@ -164,9 +164,28 @@
 #         count += 1
 # print(count)
 
-dic = {'a': 3, 'b': 1, 'c': 2}
-dict.get(dic)
-# dic = {i: text.count(i) for i in set(text)}
-print(dic)
+# dic = {'a': 3, 'b': 1, 'c': 2}
+# dict.get(dic)
+# # dic = {i: text.count(i) for i in set(text)}
+# print(dic)
+
+# class Numbers:
+#
+#     def__init__(self, *numbers):
+#         self.numbers = numbers
+#
+#     def average(self) -> float:
+#         return sum(self.numbers) / len(self.numbers)
+
+class Rectangle:
+    def__init__(x1, y1, x2, y2)
+
+def perimetr
+
+
+
+
+
+
 
 
